@@ -1,1 +1,17 @@
-[{"title": "Star Wars", "release_date": "1977"}, {"title": "Lord of the Rings: The Fellowship of the Ring", "release_date": "2001"}, {"title": "Space Jam", "release_date": "1996"}, {"title": "Dune: Part Three", "release_date": "2026"}]
+[
+    {
+        "title": "The Matrix",
+        "release_date": "1999-03-31",
+        "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth."
+    },
+    {
+        "title": "The Matrix Reloaded",
+        "release_date": "2003-05-15",
+        "description": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source."
+    },
+    {
+        "title": "The Matrix Resurrections",
+        "release_date": "2021-12-16",
+        "description": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix."
+    }
+]
